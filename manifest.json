@@ -1,0 +1,9 @@
+{
+    "name" : "HideXForYouTab",
+    "description" : "Hides the for you tab on X",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "index.html"
+    }
+}
